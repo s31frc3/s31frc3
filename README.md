@@ -1,5 +1,5 @@
 # 💫 About Me:
-Knowledge and experience in the field of information security, Linux, OWASP top-10, Git, Network stack, Docker, and Python.<br>Familiarity with fundamental concepts of CISSP, Shell Scripting, HTML, C++, and SQL.<br>Participated in the development of pre-project documentation for securing automated information systems.
+Knowledge and experience in the field of information security, Linux, OWASP top-10, Git, Network stack, Docker, and Python.<br>Familiarity with fundamental concepts of CISSP, Shell Scripting, HTML, C++, js and SQL.<br>Participated in the development of pre-project documentation for securing automated information systems.
 
 
 # 💻 Tech Stack:

@@ -11,3 +11,6 @@ Knowledge and experience in the field of information security, Linux, OWASP top-
 ---
 [![](https://visitcount.itsvg.in/api?id=andI7836I&icon=3&color=0)](https://visitcount.itsvg.in)
 
+---
+
+![tryhackme stats](https://raw.githubusercontent.com/andI7836I/andI7836I/master/assets/thm_propic.png)

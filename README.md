@@ -13,4 +13,4 @@ Knowledge and experience in the field of information security, Linux, OWASP top-
 
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/andI7836I/andI7836I/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/aasssssaaa/aasssssaaa/master/assets/thm_propic.png)

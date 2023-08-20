@@ -9,5 +9,4 @@ Knowledge and experience in the field of information security, Linux, OWASP top-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andI7836I&icon=3&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=andI7836I&label=&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 # About Me:
-Knowledge and experience in the field of information security, Linux, OWASP top-10, Git, Network stack, Docker, and Python.<br>Familiarity with fundamental concepts of CISSP, Shell Scripting, HTML, C++, js and SQL.<br>Participated in the development of pre-project documentation for securing automated information systems.
+I'm an penetration tester specializing in application security (appsec). In my repository, you'll find a collection of notes and valuable resources in pertaining to my field of expertise. I'm passionate about enhancing security measures and mitigating vulnerabilities in digital applications. Join me on this journey as I share insights, tips, and tools to help secure the digital landscape.
 
 
 # Tech Stack:

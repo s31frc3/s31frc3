@@ -1,9 +1,6 @@
 # About Me:
-I'm an penetration tester specializing in application security (appsec). In my repository, you'll find a collection of notes and valuable resources in pertaining to my field of expertise. I'm passionate about enhancing security measures and mitigating vulnerabilities in digital applications. Join me on this journey as I share insights, tips, and tools to help secure the digital landscape.
+I'm an penetration tester specializing in appsec. In my repository, you'll find a collection of notes and valuable resources in pertaining to my field of expertise. I'm passionate about enhancing security measures and mitigating vulnerabilities in digital applications. Join me on this journey as I share insights, tips, and tools to help secure the digital landscape.
 
-
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 # GitHub Stats:
 
 <p align="center">
